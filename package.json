@@ -1,0 +1,23 @@
+{
+  "name": "node-demo-app",
+  "version": "1.0.0",
+  "description": "node demo app showing how to store data in mongodb using node js and read it as well",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node, mongodb, mongoose, demo"
+  },
+  "keywords": [
+    "(ISC)"
+  ],
+  "author": "Akash Shakya (linkedin.com/in/akashshakyacse)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.10.8"
+  }
+}
